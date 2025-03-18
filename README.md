@@ -8,4 +8,4 @@ To extract more value from the EDA it would be beneficial to collect data on:
 - size of industries in the world/listed countries
 
 ## Update
-Integrated the newest version of the Kaggle dataset into a new database "layoffs_2020_2025" in "_update_to_2025.sql"
+Integrated the newest version of the Kaggle dataset into a new database "layoffs_2020_2025" via "_update_to_2025.sql"
